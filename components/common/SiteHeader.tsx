@@ -44,7 +44,7 @@ const SiteHeader: ComponentWithInit<ICustomData | null> = ({globalData, sitemapN
 								height={header.logo.width}
 								fill={false}
 							/>
-							<p className="font-bold text-xl text-secondary-500 ml-3 mt-2">{header.siteName}</p>
+							<p className="font-bold text-xl text-secondary-500 ml-3 mt-2">My Code Life</p>
 						</Link>
 					</div>
 					<div className="-mr-2 -my-2 md:hidden">
